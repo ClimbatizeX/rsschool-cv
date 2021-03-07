@@ -62,3 +62,5 @@ while (true) {
 ##Education
 * Volgograd State Technical University
 * Self-education
+##English Level
+A1 Elementary.
