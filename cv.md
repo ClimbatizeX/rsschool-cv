@@ -1,16 +1,19 @@
-#Anton Ivanov
-##Contacts
+# Anton Ivanov
+
+## Contacts
 * email: __[topixare@gmail.com](mailto:topixare@gmail.com)__
 * github: [ClimbatizeX](https://github.com/ClimbatizeX)
-##Summary
+
+## Summary
 My goal is to constantly improve my professional skills. And use skills to improve the world around you.
-##Skills
-###Hard Skills
-####4/5
+
+## Skills
+### Hard Skills
+#### 4/5
 * Markdown
 * IntelliJ IDEA (WebStorm)
 * SSH
-####3/5
+####  3/5
 * JavaScript
 * HTTP
 * git + GitHub
@@ -18,7 +21,7 @@ My goal is to constantly improve my professional skills. And use skills to impro
 * Node.JS
 * Express.JS
 * Sequelize
-####2/5
+#### 2/5
 * Software testing (Unit testing)
 * Lint code tool (ESLint)
 * Java
@@ -27,18 +30,18 @@ My goal is to constantly improve my professional skills. And use skills to impro
 * SQL
 * PostgreSQL
 * systemd
-####1/5
+#### 1/5
 * VSCode
 * PowerShell
 * Bash
 * PHP
 * NoSQL
-###Soft Skills
+### Soft Skills
 * friendly to team members
 * I like to work in a team.
 * I like to share knowledge.
 
-##Code Example
+## Code Example
 ```js
 import { me , teams, mentors } from "rs-school";
 const myTeam = teams.getRandomTeam();
@@ -57,10 +60,13 @@ while (true) {
     );
 }
 ```
-##Profession experience
+
+## Profession experience
 * Freelance
-##Education
+
+## Education
 * Volgograd State Technical University
 * Self-education
-##English Level
+
+## English Level
 A1 Elementary.
