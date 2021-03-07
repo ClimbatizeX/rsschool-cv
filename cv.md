@@ -59,3 +59,6 @@ while (true) {
 ```
 ##Profession experience
 * Freelance
+##Education
+* Volgograd State Technical University
+* Self-education
