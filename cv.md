@@ -38,3 +38,22 @@ My goal is to constantly improve my professional skills. And use skills to impro
 * I like to work in a team.
 * I like to share knowledge.
 
+##Code Example
+```js
+import { me , teams, mentors } from "rs-school";
+const myTeam = teams.getRandomTeam();
+myTeam.push(me);
+
+function rsSchoolProcess(team, mentor) {
+    return team.map(student => mentor.improveSkill(student));
+}
+
+while (true) {
+    mentors.push(
+        rsSchoolProcess(
+            teams.getRandomTeam(),
+            mentors.getRandomMentor()
+        )
+    );
+}
+```
