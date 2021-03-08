@@ -1,2 +1,3 @@
 # CV Project
-[CV](https://ClimbatizeX.github.io/rsschool-cv/cv)
+* [Markdown CV](https://ClimbatizeX.github.io/rsschool-cv/cv)
+* [Html CV](https://ClimbatizeX.github.io/rsschool-cv/)
